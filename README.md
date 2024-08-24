@@ -9,7 +9,7 @@
   
 ---
 
-👨‍💻 **Dynamic and passionate software developer** with a strong foundation in frontend development, specializing in creating innovative and user-friendly web applications. Experienced in building responsive and visually appealing interfaces using **HTML, CSS, JavaScript, and React** 🎨. Proven track record of delivering high-quality solutions during my internship at Digital Rangers 🚀. Adept at collaborating with teams, resolving issues, and driving projects to success. I’m eager to contribute my technical skills and creativity to impactful software development projects 🌟.
+I’m Sarika Prajapati 🙋‍♂️, a Frontend Developer and Hackathon Winner with a passion for creating seamless user experiences using **React JS** and **JavaScript**. Always exploring new technologies, I’m driven by curiosity and a love for innovation in web development 🚀.
 
 --- 
 </p>
