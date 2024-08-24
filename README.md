@@ -5,11 +5,11 @@
 </p>
 
 
-<p>
+<p fontSize="10px">
   
 ---
 
-<b> I’m Sarika Prajapati 🙋‍♂️, a Frontend Developer and Hackathon Winner with a passion for creating seamless user experiences using **React JS** and **JavaScript**. Always exploring new technologies, I’m driven by curiosity and a love for innovation in web development 🚀. </b>
+I’m Sarika Prajapati 🙋‍♂️, a Frontend Developer and Hackathon Winner with a passion for creating seamless user experiences using **React JS** and **JavaScript**. Always exploring new technologies, I’m driven by curiosity and a love for innovation in web development 🚀. 
 
 --- 
 </p>
